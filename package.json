@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-mini",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/BrunoRCarvalho/unit-testing-mini.git",
+  "author": "Bruno Carvalho <dipsnatchy26@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "22.2.1"
+  }
+}
